@@ -1,0 +1,3 @@
+All Needed Files attached on the Folder.
+** You will Find Pivot Talbes and some excel functions used on the Excel files in Output File**
+Needed to prepare the presentation to extract the valuable data.
